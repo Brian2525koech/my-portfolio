@@ -1,0 +1,38 @@
+{
+  "name": "Brian Koech",
+  "title": "Professional Academic Writer & Software Developer",
+  "subtitle": "Delivering 100% Human-Written, Plagiarism-Free Academic Content",
+  "tagline": "Expert academic writer specializing in essays, research papers, and assignments with guaranteed originality. Also passionate about software development and innovative tech solutions.",
+  "image": "../data/images/profile.jpeg",
+  "email": "koechbrian048@gmail.com",
+  "phone": "+254704313480",
+  "whatsapp": "+254704313480",
+  "location": "Nairobi, Kenya",
+  "social": {
+    "github": "https://github.com/Brian2525koech",
+    "linkedin": "https://www.linkedin.com/in/brian-koech-080557326/",
+    "twitter": "https://twitter.com"
+  },
+  "services": [
+    {
+      "title": "Academic Writing",
+      "description": "Custom essays, research papers, dissertations, and thesis writing with guaranteed originality",
+      "icon": "PenTool"
+    },
+    {
+      "title": "100% Human Written",
+      "description": "All content written from scratch by experienced writers - Less than 5% AI detection score",
+      "icon": "User"
+    },
+    {
+      "title": "Plagiarism Free",
+      "description": "Original content with Turnitin reports showing 0% plagiarism guarantee",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "On-Time Delivery",
+      "description": "Fast turnaround times without compromising quality - Never miss a deadline",
+      "icon": "Clock"
+    }
+  ]
+}

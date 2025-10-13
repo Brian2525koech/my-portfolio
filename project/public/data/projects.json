@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "title": "E-Commerce Platform",
+      "description": "A full-stack e-commerce application with user authentication, product management, shopping cart, and payment integration. Built with modern web technologies.",
+      "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["React", "Node.js", "MongoDB", "Stripe"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "download": "/downloads/projects/ecommerce-platform.zip"
+    },
+    {
+      "title": "Task Management App",
+      "description": "A collaborative task management tool with real-time updates, team workspaces, and project tracking. Features drag-and-drop functionality and notifications.",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["TypeScript", "React", "Firebase", "Tailwind"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "download": "/downloads/projects/task-management-app.zip"
+    },
+    {
+      "title": "Weather Dashboard",
+      "description": "A responsive weather application that provides current conditions, forecasts, and historical data. Features location search and interactive charts.",
+      "image": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["React", "API Integration", "Chart.js"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "download": "/downloads/projects/weather-dashboard.zip"
+    },
+    {
+      "title": "AI Chat Assistant",
+      "description": "An intelligent chatbot powered by natural language processing. Supports multiple conversation contexts and learns from user interactions.",
+      "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["Python", "TensorFlow", "Flask", "NLP"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "download": "/downloads/projects/ai-chat-assistant.zip"
+    },
+    {
+      "title": "Social Media Dashboard",
+      "description": "Analytics dashboard for social media management with data visualization, scheduling, and performance metrics across multiple platforms.",
+      "image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["Vue.js", "Express", "PostgreSQL", "D3.js"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "download": "/downloads/projects/social-media-dashboard.zip"
+    },
+    {
+      "title": "Fitness Tracker",
+      "description": "A comprehensive fitness tracking application with workout logging, progress tracking, and personalized goal setting features.",
+      "image": "https://images.pexels.com/photos/4164766/pexels-photo-4164766.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": ["React Native", "Redux", "Node.js"],
+      "github": "https://github.com",
+      "demo": "https://example.com",
+      "download": "/downloads/projects/fitness-tracker.zip"
+    }
+  ]
+}

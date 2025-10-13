@@ -1,0 +1,126 @@
+{
+  "samples": [
+    {
+      "title": "The Impact of Climate Change on Global Food Security",
+      "category": "Research Paper",
+      "subject": "Environmental Science",
+      "pages": 12,
+      "grade": "A+",
+      "description": "Comprehensive research paper analyzing the relationship between climate change and global food production, examining case studies from multiple continents.",
+      "turnitinScore": 2,
+      "aiScore": 3,
+      "wordCount": 3200,
+      "excerpt": "Climate change represents one of the most pressing challenges facing global food security in the 21st century. This research examines the multifaceted impacts of rising temperatures, changing precipitation patterns, and extreme weather events...",
+      "image": "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "download": "/downloads/writing-samples/climate-change-food-security.pdf",
+      "features": ["In-depth research", "Peer-reviewed sources", "Data analysis", "Original insights"]
+    },
+    {
+      "title": "Marketing Strategies in the Digital Age",
+      "category": "Case Study",
+      "subject": "Business Administration",
+      "pages": 8,
+      "grade": "A",
+      "description": "Analytical case study examining successful digital marketing campaigns and their impact on consumer behavior and brand loyalty.",
+      "turnitinScore": 1,
+      "aiScore": 2,
+      "wordCount": 2100,
+      "excerpt": "The digital revolution has fundamentally transformed marketing practices, creating unprecedented opportunities for businesses to engage with consumers. This case study explores how leading brands have leveraged digital platforms...",
+      "image": "https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "download": "/downloads/writing-samples/marketing-strategies-digital-age.pdf",
+      "features": ["Real-world examples", "Strategic analysis", "Market insights", "Actionable recommendations"]
+    },
+    {
+      "title": "Artificial Intelligence and Healthcare Innovation",
+      "category": "Essay",
+      "subject": "Technology & Medicine",
+      "pages": 6,
+      "grade": "A+",
+      "description": "Critical essay exploring the transformative potential of AI in modern healthcare delivery and medical diagnostics.",
+      "turnitinScore": 3,
+      "aiScore": 4,
+      "wordCount": 1800,
+      "excerpt": "Artificial intelligence is revolutionizing healthcare delivery, from diagnostic accuracy to personalized treatment plans. This essay critically examines both the opportunities and challenges presented by AI integration in medical practice...",
+      "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "download": "/downloads/writing-samples/ai-healthcare-innovation.pdf",
+      "features": ["Critical analysis", "Evidence-based arguments", "Balanced perspective", "Current research"]
+    },
+    {
+      "title": "Social Media's Influence on Modern Political Discourse",
+      "category": "Research Paper",
+      "subject": "Political Science",
+      "pages": 15,
+      "grade": "A",
+      "description": "In-depth analysis of how social media platforms have reshaped political communication, public opinion formation, and democratic participation.",
+      "turnitinScore": 2,
+      "aiScore": 3,
+      "wordCount": 4200,
+      "excerpt": "Social media platforms have emerged as powerful forces in contemporary political discourse, fundamentally altering how citizens engage with political information and participate in democratic processes...",
+      "image": "https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "download": "/downloads/writing-samples/social-media-political-discourse.pdf",
+      "features": ["Comprehensive research", "Multiple perspectives", "Data-driven analysis", "Timely relevance"]
+    },
+    {
+      "title": "The Psychology of Consumer Decision Making",
+      "category": "Literature Review",
+      "subject": "Psychology",
+      "pages": 10,
+      "grade": "A+",
+      "description": "Systematic literature review examining cognitive and emotional factors influencing consumer purchasing decisions.",
+      "turnitinScore": 1,
+      "aiScore": 2,
+      "wordCount": 2800,
+      "excerpt": "Consumer decision-making represents a complex interplay of cognitive processes, emotional responses, and social influences. This literature review synthesizes current research on the psychological mechanisms underlying purchasing behavior...",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "download": "/downloads/writing-samples/psychology-consumer-decision-making.pdf",
+      "features": ["Extensive citations", "Theoretical frameworks", "Critical synthesis", "Research gaps identified"]
+    },
+    {
+      "title": "Sustainable Urban Development Practices",
+      "category": "Essay",
+      "subject": "Urban Planning",
+      "pages": 7,
+      "grade": "A",
+      "description": "Persuasive essay advocating for sustainable urban development strategies to address environmental and social challenges in growing cities.",
+      "turnitinScore": 2,
+      "aiScore": 3,
+      "wordCount": 2000,
+      "excerpt": "As urban populations continue to grow globally, the imperative for sustainable development practices becomes increasingly urgent. This essay argues that integrated sustainability approaches are essential for creating livable, resilient cities...",
+      "image": "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "download": "/downloads/writing-samples/sustainable-urban-development.pdf",
+      "features": ["Persuasive arguments", "Evidence-based claims", "Policy recommendations", "Global perspective"]
+    }
+  ],
+  "guarantees": [
+    {
+      "title": "100% Original Content",
+      "description": "Every paper is written from scratch, tailored to your specific requirements",
+      "icon": "FileText"
+    },
+    {
+      "title": "Less than 5% AI Score",
+      "description": "Human-written work with AI detection scores consistently under 5%",
+      "icon": "UserCheck"
+    },
+    {
+      "title": "0% Plagiarism",
+      "description": "Turnitin reports provided showing complete originality",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "Free Revisions",
+      "description": "Unlimited revisions until you're completely satisfied",
+      "icon": "RefreshCw"
+    },
+    {
+      "title": "24/7 Support",
+      "description": "Round-the-clock customer support via WhatsApp and email",
+      "icon": "MessageCircle"
+    },
+    {
+      "title": "Confidential Service",
+      "description": "Your privacy is guaranteed - all information kept strictly confidential",
+      "icon": "Lock"
+    }
+  ]
+}

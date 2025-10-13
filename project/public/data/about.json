@@ -1,0 +1,29 @@
+{
+  "paragraphs": [
+    "I'm a dedicated Computer Science student with a passion for creating impactful software solutions. My journey in programming began with curiosity and has evolved into a commitment to excellence in software development.",
+    "With experience in full-stack development, I enjoy working on projects that challenge me to think creatively and develop efficient, scalable solutions. I'm constantly learning and adapting to new technologies, frameworks, and methodologies.",
+    "Beyond coding, I'm interested in open-source contributions, hackathons, and collaborative projects that make a difference. I believe in writing clean, maintainable code and following industry best practices."
+  ],
+  "highlights": [
+    {
+      "icon": "GraduationCap",
+      "title": "Education",
+      "description": "Pursuing Computer Science with a focus on software engineering and algorithms"
+    },
+    {
+      "icon": "Code2",
+      "title": "Development",
+      "description": "Building full-stack applications with modern frameworks and best practices"
+    },
+    {
+      "icon": "Lightbulb",
+      "title": "Problem Solving",
+      "description": "Passionate about tackling complex challenges with elegant solutions"
+    },
+    {
+      "icon": "Rocket",
+      "title": "Innovation",
+      "description": "Always exploring new technologies and staying current with industry trends"
+    }
+  ]
+}
