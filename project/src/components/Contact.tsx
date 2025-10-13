@@ -48,13 +48,28 @@ const Contact = () => {
     setIsSubmitting(true);
     setSubmitStatus(null);
 
-    setTimeout(() => {
-      setIsSubmitting(false);
-      setSubmitStatus('success');
-      setFormData({ name: '', email: '', subject: '', message: '' });
+    try {
+      const response = await fetch('https://formspree.io/f/your-form-id', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      });
 
-      setTimeout(() => setSubmitStatus(null), 5000);
-    }, 1500);
+      if (response.ok) {
+        setSubmitStatus('success');
+        setFormData({ name: '', email: '', subject: '', message: '' });
+        setTimeout(() => setSubmitStatus(null), 5000);
+      } else {
+        setSubmitStatus('error');
+      }
+    } catch (error) {
+      setSubmitStatus('error');
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   if (!profileData) {
@@ -312,6 +327,11 @@ const Contact = () => {
               {submitStatus === 'success' && (
                 <div className="p-4 bg-green-50 border border-green-200 rounded-lg text-green-700">
                   Thank you for your message! I'll get back to you soon.
+                </div>
+              )}
+              {submitStatus === 'error' && (
+                <div className="p-4 bg-red-50 border border-red-200 rounded-lg text-red-700">
+                  Something went wrong. Please try again later.
                 </div>
               )}
 
