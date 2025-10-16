@@ -32,8 +32,8 @@
       "description": "An intelligent chatbot powered by natural language processing. Supports multiple conversation contexts and learns from user interactions.",
       "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
       "tags": ["Python", "TensorFlow", "Flask", "NLP"],
-      "github": "https://github.com",
-      "demo": "https://example.com",
+      "github": "https://github.com/Brian2525koech/AI_chatwise",
+      "demo": "https://ai-chatwise.vercel.app/",
       "download": "/downloads/projects/ai-chat-assistant.zip"
     },
     {
